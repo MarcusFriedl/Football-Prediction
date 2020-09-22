@@ -1,7 +1,6 @@
 # Football Prediction
 This is DeepLearning model to predict football game on keras in python.  
 <br>
-Python kerasを用いたサッカーの試合勝敗予想
 
 ## Description
 - Using Keras in python.
